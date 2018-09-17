@@ -1,0 +1,25 @@
+_repo: Notes-of-a-naturalist-in-South-America_52513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ball, John
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '46903'
+    url: http://www.gutenberg.org/2009/agents/46903
+description: ''
+gutenberg_issued: '2016-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- South America'
+- !lcc 'F2201'
+- !lcsh 'South America -- Description and travel'
+- GITenberg
+title: Notes of a naturalist in South America
+url: http://www.gutenberg.org/ebooks/52513
